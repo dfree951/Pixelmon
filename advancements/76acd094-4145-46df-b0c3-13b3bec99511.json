@@ -1207,6 +1207,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/terrestrial_artifact": {
+    "criteria": {
+      "emerald": "2020-11-17 13:45:06 -0500"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2020-11-15 20:52:22 -0500"
@@ -1605,6 +1611,12 @@
     },
     "done": true
   },
+  "pixelmon:balls/ultra_ball_capture": {
+    "criteria": {
+      "ultra_ball_capture": "2020-11-17 13:35:29 -0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "ice_flats": "2020-11-16 21:31:32 -0500",
@@ -1750,6 +1762,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2020-11-15 21:48:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2020-11-17 14:03:48 -0500"
     },
     "done": true
   },
