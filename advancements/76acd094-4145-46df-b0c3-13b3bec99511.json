@@ -318,6 +318,12 @@
     },
     "done": true
   },
+  "pixelmon:balls/master_ball_capture": {
+    "criteria": {
+      "master_ball_capture": "2020-11-17 11:58:04 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2020-11-15 20:52:22 -0500"
@@ -327,6 +333,12 @@
   "pixelmon:recipes/decorative/brown_rug": {
     "criteria": {
       "has_wool": "2020-11-15 21:02:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2020-11-17 11:54:03 -0500"
     },
     "done": true
   },
@@ -642,6 +654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2020-11-17 11:54:03 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-11-15 23:15:25 -0500"
@@ -799,6 +817,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2020-11-17 12:05:46 -0500"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/white_folding_chair": {
     "criteria": {
       "has_wool": "2020-11-15 21:02:11 -0500"
@@ -952,6 +976,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-11-15 23:02:58 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:legendaries/suicune_capture_trigger": {
+    "criteria": {
+      "suicune_capture": "2020-11-17 11:58:04 -0500"
     },
     "done": true
   },
@@ -1186,6 +1216,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2020-11-15 21:15:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2020-11-17 12:13:58 -0500"
     },
     "done": true
   },
@@ -1454,9 +1490,21 @@
     },
     "done": true
   },
+  "pixelmon:legendaries/legendary_capture_trigger": {
+    "criteria": {
+      "legendary_capture": "2020-11-17 11:58:04 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2020-11-15 21:02:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_the_recipe": "2020-11-17 12:13:58 -0500"
     },
     "done": true
   },
