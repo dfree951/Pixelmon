@@ -836,6 +836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2020-11-18 15:42:17 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2020-11-15 20:36:20 -0500"
@@ -1389,6 +1395,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/lures/lure_ha_strong": {
+    "criteria": {
+      "has_starf": "2020-11-18 15:48:54 -0500"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/redstone/wooden_pressure_plate_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2020-11-15 22:22:25 -0500"
@@ -1625,6 +1637,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2020-11-18 15:42:17 -0500"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/black_rug": {
     "criteria": {
       "has_wool": "2020-11-17 23:53:52 -0500"
@@ -1690,6 +1708,12 @@
       "has_gravel": "2020-11-17 22:44:02 -0500"
     },
     "done": true
+  },
+  "pixelmon:recipes/lures/lure_shiny_strong": {
+    "criteria": {
+      "has_starf": "2020-11-18 15:48:54 -0500"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
