@@ -71,15 +71,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2020-11-18 08:38:46 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2020-11-15 23:57:03 -0500"
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/purple_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2020-11-18 08:45:43 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2020-11-15 21:02:11 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/green_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2020-11-18 08:45:43 -0500"
     },
     "done": true
   },
@@ -396,6 +414,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/brown_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2020-11-18 08:45:43 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2020-11-15 21:02:11 -0500"
@@ -423,6 +447,13 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-11-15 21:08:07 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/yellow_vending_machine": {
+    "criteria": {
+      "has_the_recipe": "2020-11-18 08:45:43 -0500",
+      "has_fresh_water": "2020-11-18 08:45:43 -0500"
     },
     "done": true
   },
@@ -523,6 +554,13 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/blue_vending_machine": {
+    "criteria": {
+      "has_the_recipe": "2020-11-18 08:45:43 -0500",
+      "has_fresh_water": "2020-11-18 08:45:43 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-11-15 23:02:58 -0500"
@@ -559,6 +597,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/pink_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2020-11-18 08:45:43 -0500"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/orange_cushion_chair": {
     "criteria": {
       "has_wool": "2020-11-15 21:02:11 -0500"
@@ -568,6 +612,13 @@
   "biomesoplenty:recipes/transportation/boat_eucalyptus": {
     "criteria": {
       "entered_water": "2020-11-15 20:37:25 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/green_vending_machine": {
+    "criteria": {
+      "has_the_recipe": "2020-11-18 08:45:43 -0500",
+      "has_fresh_water": "2020-11-18 08:45:43 -0500"
     },
     "done": true
   },
@@ -730,6 +781,12 @@
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_double_plant": "2020-11-16 00:43:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2020-11-18 08:49:47 -0500"
     },
     "done": true
   },
@@ -1046,6 +1103,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/white_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2020-11-18 08:45:43 -0500"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/gray_rug": {
     "criteria": {
       "has_wool": "2020-11-15 21:02:11 -0500"
@@ -1088,6 +1151,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2020-11-18 08:39:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2020-11-15 23:02:58 -0500"
@@ -1103,6 +1172,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2020-11-15 22:28:46 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/blue_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2020-11-18 08:45:43 -0500"
     },
     "done": true
   },
@@ -1134,6 +1209,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-11-15 20:51:43 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/orange_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2020-11-18 08:45:43 -0500"
     },
     "done": true
   },
@@ -1260,6 +1341,13 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2020-11-17 20:52:22 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/red_vending_machine": {
+    "criteria": {
+      "has_the_recipe": "2020-11-18 08:45:43 -0500",
+      "has_fresh_water": "2020-11-18 08:45:43 -0500"
     },
     "done": true
   },
@@ -1474,6 +1562,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2020-11-18 08:38:46 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2020-11-15 23:57:03 -0500"
@@ -1588,6 +1682,13 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/orange_vending_machine": {
+    "criteria": {
+      "has_the_recipe": "2020-11-18 08:45:43 -0500",
+      "has_fresh_water": "2020-11-18 08:45:43 -0500"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_ebony": {
     "criteria": {
       "entered_water": "2020-11-15 20:37:25 -0500"
@@ -1696,6 +1797,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/black_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2020-11-18 08:45:43 -0500"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
     "criteria": {
       "has_gravel": "2020-11-15 20:51:43 -0500"
@@ -1724,6 +1831,12 @@
   "pixelmon:recipes/decorative/orange_rug": {
     "criteria": {
       "has_wool": "2020-11-15 21:02:11 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/gray_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2020-11-18 08:45:43 -0500"
     },
     "done": true
   },
@@ -1793,6 +1906,12 @@
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
       "has_purpur_block": "2020-11-17 21:08:40 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/red_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2020-11-18 08:45:43 -0500"
     },
     "done": true
   },
@@ -1866,6 +1985,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2020-11-15 20:37:25 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/cyan_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2020-11-18 08:45:43 -0500"
     },
     "done": true
   },
@@ -2019,6 +2144,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/machines/yellow_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2020-11-18 08:45:43 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2020-11-15 22:28:49 -0500"
@@ -2112,6 +2243,13 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2020-11-15 23:57:03 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/pink_vending_machine": {
+    "criteria": {
+      "has_the_recipe": "2020-11-18 08:45:43 -0500",
+      "has_fresh_water": "2020-11-18 08:45:43 -0500"
     },
     "done": true
   },
