@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-11-17 20:37:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2020-11-15 22:28:49 -0500"
@@ -204,6 +210,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-11-17 20:37:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2020-11-15 21:08:07 -0500"
@@ -222,6 +234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-11-17 20:37:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-11-15 20:51:43 -0500"
@@ -234,9 +252,21 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2020-11-17 21:11:09 -0500"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/green_rug": {
     "criteria": {
       "has_wool": "2020-11-15 21:02:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2020-11-17 22:23:39 -0500"
     },
     "done": true
   },
@@ -276,6 +306,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2020-11-17 21:08:40 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2020-11-15 21:02:11 -0500"
@@ -285,6 +321,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2020-11-15 21:08:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-11-17 20:37:49 -0500"
     },
     "done": true
   },
@@ -399,6 +441,13 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2020-11-15 22:28:49 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/trade_machine": {
+    "criteria": {
+      "has_left_holder": "2020-11-17 22:14:40 -0500",
+      "has_right_holder": "2020-11-17 22:14:40 -0500"
     },
     "done": true
   },
@@ -973,6 +1022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-11-17 20:37:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2020-11-15 23:02:58 -0500"
@@ -982,6 +1037,12 @@
   "pixelmon:legendaries/suicune_capture_trigger": {
     "criteria": {
       "suicune_capture": "2020-11-17 11:58:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-11-17 20:37:49 -0500"
     },
     "done": true
   },
@@ -1017,9 +1078,10 @@
   },
   "pixelmon:recipes/lures/lure_type_weak": {
     "criteria": {
+      "has_oran": "2020-11-17 21:39:57 -0500",
       "has_case_recipe": "2020-11-15 23:11:16 -0500"
     },
-    "done": false
+    "done": true
   },
   "biomesoplenty:recipes/transportation/boat_palm": {
     "criteria": {
@@ -1099,6 +1161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-11-17 20:37:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2020-11-15 23:08:30 -0500"
@@ -1150,6 +1218,12 @@
   "pixelmon:balls/luxury_ball_capture": {
     "criteria": {
       "luxury_ball_capture": "2020-11-16 21:43:35 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2020-11-17 20:52:22 -0500"
     },
     "done": true
   },
@@ -1352,6 +1426,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-11-17 20:37:49 -0500"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/black_umbrella": {
     "criteria": {
       "has_wool": "2020-11-15 21:02:11 -0500"
@@ -1373,6 +1453,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2020-11-15 21:08:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-11-17 20:37:49 -0500"
     },
     "done": true
   },
@@ -1433,6 +1519,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2020-11-15 21:38:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-11-17 20:37:49 -0500"
     },
     "done": true
   },
@@ -1656,6 +1748,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2020-11-17 21:08:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-11-17 20:37:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2020-11-15 22:28:49 -0500"
@@ -1693,6 +1797,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-11-17 20:37:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2020-11-15 21:15:42 -0500"
@@ -1720,6 +1830,18 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2020-11-15 20:37:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-11-17 20:37:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-11-17 20:37:49 -0500"
     },
     "done": true
   },
@@ -1768,6 +1890,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2020-11-17 14:03:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2020-11-17 21:08:40 -0500"
     },
     "done": true
   },
@@ -1873,6 +2001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-11-17 20:37:49 -0500"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/orange_umbrella": {
     "criteria": {
       "has_wool": "2020-11-15 21:02:11 -0500"
@@ -1906,6 +2040,12 @@
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2020-11-15 21:02:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2020-11-17 20:37:49 -0500"
     },
     "done": true
   },
