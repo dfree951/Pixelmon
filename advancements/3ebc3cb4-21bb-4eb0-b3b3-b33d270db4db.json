@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2020-11-18 20:30:41 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2020-11-15 22:22:25 -0500"
@@ -167,9 +173,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-18 20:10:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2020-11-17 20:33:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2020-11-18 19:55:23 -0500"
     },
     "done": true
   },
@@ -333,6 +351,12 @@
   "pixelmon:balls/master_ball_capture": {
     "criteria": {
       "master_ball_capture": "2020-11-17 20:29:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2020-11-18 20:30:41 -0500"
     },
     "done": true
   },
@@ -553,6 +577,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-18 20:10:18 -0500"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/green_vending_machine": {
     "criteria": {
       "has_the_recipe": "2020-11-16 21:16:58 -0500",
@@ -626,6 +656,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2020-11-18 20:30:41 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2020-11-16 19:40:14 -0500"
@@ -686,6 +722,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2020-11-18 20:30:41 -0500"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/trapdoor_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2020-11-15 22:22:25 -0500"
@@ -700,6 +742,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "phantasmagoric_inferno": "2020-11-18 20:25:44 -0500",
+      "visceral_heap": "2020-11-18 20:27:05 -0500",
       "fungi_forest": "2020-11-15 23:50:58 -0500"
     },
     "done": false
@@ -1233,6 +1277,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/flesh_and_blood": {
+    "criteria": {
+      "flesh": "2020-11-18 20:29:26 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2020-11-17 20:57:31 -0500"
@@ -1290,6 +1340,12 @@
   "pixelmon:recipes/decorative/gray_cushion_chair": {
     "criteria": {
       "has_wool": "2020-11-17 23:53:52 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/flesh_block": {
+    "criteria": {
+      "has_item": "2020-11-18 20:29:26 -0500"
     },
     "done": true
   },
@@ -1433,9 +1489,10 @@
   },
   "pixelmon:recipes/lures/lure_shiny_weak": {
     "criteria": {
+      "has_lansat": "2020-11-18 19:54:28 -0500",
       "has_case_recipe": "2020-11-16 00:20:07 -0500"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
@@ -1711,6 +1768,7 @@
   },
   "pixelmon:recipes/lures/lure_shiny_strong": {
     "criteria": {
+      "has_lansat": "2020-11-18 19:54:28 -0500",
       "has_starf": "2020-11-18 15:48:54 -0500"
     },
     "done": false
@@ -1736,6 +1794,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2020-11-16 00:49:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2020-11-18 20:30:41 -0500"
     },
     "done": true
   },
@@ -1944,6 +2008,12 @@
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
       "has_purpur_block": "2020-11-17 23:25:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2020-11-18 20:30:41 -0500"
     },
     "done": true
   },
