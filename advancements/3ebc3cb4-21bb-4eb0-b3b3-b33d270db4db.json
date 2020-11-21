@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2020-11-20 21:52:19 -0500"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/purple_vending_machine": {
     "criteria": {
       "has_fresh_water": "2020-11-16 21:16:58 -0500"
@@ -348,6 +354,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/blue_clock": {
+    "criteria": {
+      "has_clock": "2020-11-20 23:53:32 -0500"
+    },
+    "done": true
+  },
   "pixelmon:balls/master_ball_capture": {
     "criteria": {
       "master_ball_capture": "2020-11-17 20:29:23 -0500"
@@ -540,9 +552,21 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/purple_clock": {
+    "criteria": {
+      "has_clock": "2020-11-20 23:53:32 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2020-11-17 23:53:52 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/gray_clock": {
+    "criteria": {
+      "has_clock": "2020-11-20 23:53:32 -0500"
     },
     "done": true
   },
@@ -1030,6 +1054,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/orange_clock": {
+    "criteria": {
+      "has_clock": "2020-11-20 23:53:32 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2020-11-17 20:57:31 -0500"
@@ -1193,6 +1223,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/white_clock": {
+    "criteria": {
+      "has_clock": "2020-11-20 23:53:32 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-11-15 20:37:07 -0500"
@@ -1202,6 +1238,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-11-17 20:33:52 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:legendaries/latios_capture_trigger": {
+    "criteria": {
+      "latios_capture": "2020-11-20 22:26:09 -0500"
     },
     "done": true
   },
@@ -1226,6 +1268,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-11-17 20:33:52 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/green_clock": {
+    "criteria": {
+      "has_clock": "2020-11-20 23:53:32 -0500"
     },
     "done": true
   },
@@ -1358,6 +1406,12 @@
   "pixelmon:recipes/decorative/blue_rug": {
     "criteria": {
       "has_wool": "2020-11-17 23:53:52 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/brown_clock": {
+    "criteria": {
+      "has_clock": "2020-11-20 23:53:32 -0500"
     },
     "done": true
   },
@@ -1548,9 +1602,21 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/pink_clock": {
+    "criteria": {
+      "has_clock": "2020-11-20 23:53:32 -0500"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/black_umbrella": {
     "criteria": {
       "has_wool": "2020-11-17 23:53:52 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/red_clock": {
+    "criteria": {
+      "has_clock": "2020-11-20 23:53:32 -0500"
     },
     "done": true
   },
@@ -1688,6 +1754,12 @@
     },
     "done": true
   },
+  "pixelmon:legendaries/legendary_capture_trigger": {
+    "criteria": {
+      "legendary_capture": "2020-11-20 22:26:09 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2020-11-17 23:53:52 -0500"
@@ -1763,6 +1835,12 @@
   "pixelmon:recipes/decorative/black_vending_machine": {
     "criteria": {
       "has_fresh_water": "2020-11-16 21:16:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2020-11-20 23:36:17 -0500"
     },
     "done": true
   },
@@ -1868,6 +1946,12 @@
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
       "has_purpur_block": "2020-11-17 23:25:34 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/yellow_clock": {
+    "criteria": {
+      "has_clock": "2020-11-20 23:53:32 -0500"
     },
     "done": true
   },
@@ -2041,6 +2125,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/black_clock": {
+    "criteria": {
+      "has_clock": "2020-11-20 23:53:32 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2020-11-17 20:52:10 -0500"
@@ -2123,6 +2213,12 @@
   "pixelmon:recipes/decorative/orange_umbrella": {
     "criteria": {
       "has_wool": "2020-11-17 23:53:52 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/cyan_clock": {
+    "criteria": {
+      "has_clock": "2020-11-20 23:53:32 -0500"
     },
     "done": true
   },
